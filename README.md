@@ -1,5 +1,5 @@
-# Page 1
+# Raspberry Pi Pico
 
 
 
-{% file src=".gitbook/assets/pico-datasheet.pdf" %}
+## Files
